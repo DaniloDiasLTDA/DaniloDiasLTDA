@@ -1,7 +1,7 @@
 ### Bem vindo! Eu sou o Danilo Dias!!! 
 
 
--  Habilidades em C#
+-  Conhecimento em C# | JS 
 -  E𝚜𝚝𝚞𝚍𝚊𝚗𝚍𝚘 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊ç𝚊𝚘 𝚘𝚛𝚒𝚎𝚗𝚝𝚊𝚍𝚊 𝚎 𝚘𝚋𝚎𝚓𝚎𝚝𝚘
 -  Objetivo: 𝙳𝚎𝚟 Back-End
 ##
