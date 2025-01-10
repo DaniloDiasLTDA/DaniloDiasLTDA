@@ -1,9 +1,10 @@
 ### Bem vindo! Eu sou o Danilo Dias!!! 
 
 
--  Conhecimento em C# | JS 
--  E𝚜𝚝𝚞𝚍𝚊𝚗𝚍𝚘 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊ç𝚊𝚘 𝚘𝚛𝚒𝚎𝚗𝚝𝚊𝚍𝚊 𝚎 𝚘𝚋𝚎𝚓𝚎𝚝𝚘
--  Objetivo: 𝙳𝚎𝚟 Back-End
+-  Conhecimento em Python | C# |JS 
+-  Atualmente focando em Python
+-  Estudando pela Udemy
+-  Objetivo: Desenvolvedor FullStack
 ##
 
 <div align="center">
