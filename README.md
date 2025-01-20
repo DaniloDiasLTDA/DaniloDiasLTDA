@@ -24,7 +24,7 @@ e o meu histórico de atuação na área de tecnologia da informação. 🚀
 ##
 
 <div align="center">
-  <a href="https://github.com/[rafaballerini](https://github.com/DaniloDiasLTDA">
+  <a href="https://github.com/https://github.com/DaniloDiasLTDA">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DaniloDiasLTDA&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloDiasLTDA&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
