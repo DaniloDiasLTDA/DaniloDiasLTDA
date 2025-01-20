@@ -1,8 +1,9 @@
 ### Bem vindo! Eu sou o Danilo Dias!!! 
 
 
--  Conhecimento em Python | C# |JS 
--  Atualmente focando em Python
+-  Estudando programação
+-  Atualmente focado em Python 
+-  Perfil do GitHub dedicado a testes
 -  Estudando pela Udemy
 -  Objetivo: Desenvolvedor FullStack
 ##
