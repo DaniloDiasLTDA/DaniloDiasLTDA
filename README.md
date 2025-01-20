@@ -3,26 +3,24 @@
 Aqui você encontra algumas informações sobre meus estudos 
 e o meu histórico de atuação na área de tecnologia da informação. 🚀
 
-💻 Sobre os Estudos:
--  Atualmente estudando programação
--  Focado em Python
--  Possuo conhecimento em outras linguagens
--  Estudando pela Udemy
+⌨️ Sobre os Estudos:                                              
+-  Atualmente estudando programação                                
+-  Focado em Python                                                   
+-  Possuo conhecimento em outras linguagens                             
+-  Estudando pela Udemy 
 -  Perfil do GitHub dedicado a testes e aprendizagem
 -  Objetivo: Desenvolvedor FullStack
 -  Disponível para estágio
-
-⌨️ Experiências na área de T.I:
+  
+💻 Experiências na área de T.I:
 - Manutenção de computadores
 - Análise Técnica
 - Formatação
-- Windows e Linux
 - Montagem, remongatem e limpeza
 - Gerenciamento de Redes
 - Help Desk
 - Roteadores e roteamento
-- Sistemas Distribuídos
-  
+- Sistemas Distribuídos  
 ##
 
 <div align="center">
@@ -37,11 +35,9 @@ e o meu histórico de atuação na área de tecnologia da informação. 🚀
   <img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dias-Azure" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="Dias-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-           
-          
+  <img align="center" alt="Dias-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />                    
 </div>
-  
+
   ##
  
 <div> 
