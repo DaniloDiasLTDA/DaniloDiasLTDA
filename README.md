@@ -1,11 +1,28 @@
 ### Bem vindo! Eu sou o Danilo Dias!!! 
 
+Aqui você encontra algumas informações sobre meus estudos 
+e o meu histórico de atuação na área de tecnologia da informação. 🚀
 
--  Estudando programação
--  Atualmente focado em Python 
--  Perfil do GitHub dedicado a testes
+💻 Sobre os Estudos:
+-  Atualmente estudando programação
+-  Focado em Python
+-  Possuo conhecimento em outras linguagens
 -  Estudando pela Udemy
+-  Perfil do GitHub dedicado a testes e aprendizagem
 -  Objetivo: Desenvolvedor FullStack
+-  Disponível para estágio
+
+⌨️ Experiências na área de T.I:
+- Manutenção de computadores
+- Análise Técnica
+- Formatação
+- Windows e Linux
+- Montagem, remongatem e limpeza
+- Gerenciamento de Redes
+- Help Desk
+- Roteadores e roteamento
+- Sistemas Distribuídos
+  
 ##
 
 <div align="center">
