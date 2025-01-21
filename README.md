@@ -3,7 +3,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodiasz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatodias.danilo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([contatodias.danilo@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=lqrsmDrQqJjwlPGqjZZjdvHMqSbDzKqccGMGqscHwnZLxfdTJHJCtrDXbhscwcwQGvJLpwRjqKXdkrZnK))
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://drive.google.com/file/d/1SWD6OY9Bx7J9TGPzzfXpsjP63ND9MWVZ/view?usp=sharing)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](danilof.dias3@hotmail.com)
 
