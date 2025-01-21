@@ -1,5 +1,4 @@
 ### Bem vindo! Eu sou o Danilo Dias!!! 
-
 Aqui você encontra algumas informações sobre meus estudos 
 e o meu histórico de atuação na área de tecnologia da informação. 🚀
 
@@ -22,7 +21,6 @@ e o meu histórico de atuação na área de tecnologia da informação. 🚀
 - Roteadores e roteamento
 - Sistemas Distribuídos  
 ##
-
 <div align="center">
   <a href="https://github.com/https://github.com/DaniloDiasLTDA">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DaniloDiasLTDA&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
