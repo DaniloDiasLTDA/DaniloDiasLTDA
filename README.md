@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Danilo Ferreira Dias, 26 anos, residente em Salvador, Bahia. Possuo experiência em informática e desenvolvimento de software. Atualmente, estou me especializando em Python pela Udemy, mas tenho conhecimento em outras linguagens de programação. Busco oportunidades para aplicar minhas habilidades e contribuir com excelência no mercado.
+Me chamo Danilo Ferreira Dias, 26 anos, residente em Salvador, Bahia. Possuo experiência em informática e desenvolvimento de software. Atualmente, estou me especializando em Python pela Udemy, mas tenho conhecimento em outras linguagens da programação. Busco oportunidades para aplicar minhas habilidades e contribuir com excelência no mercado.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/danilodiasz/">
@@ -37,7 +37,7 @@ Danilo Ferreira Dias, 26 anos, residente em Salvador, Bahia. Possuo experiência
 
 ---
 
-#### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -175,7 +175,6 @@ Danilo Ferreira Dias, 26 anos, residente em Salvador, Bahia. Possuo experiência
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
 />
-
 <br/>
 <br/>
 
