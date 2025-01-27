@@ -1,4 +1,4 @@
-# 👨‍💻 Danilo Dias
+# Danilo Dias
 
 **`Estudante FullStack`**
 
@@ -37,7 +37,7 @@ Me chamo Danilo Ferreira Dias, 26 anos, residente em Salvador, Bahia. Possuo exp
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <img 
     align="left" 
     alt="C#"
